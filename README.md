@@ -31,7 +31,7 @@
 ## Installation
 
 ```bash
-$ npm i --save @kimtuan1102/nestjs-kafka
+$ npm i --save  @fpt-smart-cloud/nestjs-kafka
 ```
 
 ### Synchronous Module Initialization

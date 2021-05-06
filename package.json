@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "NestJS Kafka Client",
   "author": "Trinh Kim Tuan",
-  "repository": "https://github.com/kimtuan1102/nestjs-kafka.git",
+  "repository": "https://github.com/fpt-smart-cloud/nestjs-kafka",
   "license": "MIT",
   "scripts": {
     "lint": "eslint \"lib/**/*.ts\" --fix",
